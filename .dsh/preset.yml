@@ -1,0 +1,3 @@
+name: LLM Agent 控制平面设计专家
+description: LLM Agent 控制平面设计指南（控制循环、Worker 协议、审批边界、可观测性）的解读与应用。Expert for the LLM Agent control-plane design guide: control loop, worker protocol, approval boundaries and observability.
+order: 7
